@@ -1,0 +1,1 @@
+SELECT p.name from Passenger p

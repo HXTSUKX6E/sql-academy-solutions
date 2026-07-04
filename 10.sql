@@ -1,0 +1,2 @@
+SELECT * from Trip t
+WHERE t.time_out BETWEEN '1900-01-01 10:00:00' AND '1900-01-01 14:00:00';
