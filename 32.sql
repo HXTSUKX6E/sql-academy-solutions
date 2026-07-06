@@ -1,0 +1,2 @@
+SELECT FLOOR(AVG(EXTRACT(YEAR FROM NOW()) - EXTRACT(YEAR FROM fm.birthday))) as age
+FROM FamilyMembers fm
